@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iSeven1
 - 👀 I’m interested in music(and singing), innovation, gaming, sports.
-- 🌱 I’m currently learning AI app building
+- 🌱 I’m currently learning AI powered app building and data analytics
 - 📫 Reach me from my LinkedIn!
  :)
 If you would like to see my work from one of the categories below, just send me a message and I can share it with you!:)
