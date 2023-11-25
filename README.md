@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI powered app building and data analytics
 - 📫 Reach me from my LinkedIn!
  :)
+
 If you would like to see my work from one of the categories below, just send me a message and I can share it with you!:)
 
 - Databases: SQL, MySQL, Relational databases, BigQuery
